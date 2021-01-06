@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Knowledge is limited." - Albert Einstein
 Use the left arrow to go back!
